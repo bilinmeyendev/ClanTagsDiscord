@@ -1,4 +1,4 @@
-[ClanTagsDiscord](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqvVH-0lYYh2giRCz2wqmAr8eMuNdcPizI-A&s)
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqvVH-0lYYh2giRCz2wqmAr8eMuNdcPizI-A&s
 # ClanTagsDiscord
 Discord clan tags that i found.
 
