@@ -6,9 +6,7 @@ Discord clan tags that i found.
 [Discord - Liord Code](https://discord.gg/liordcode)
 
 ## Supported Devices
-PC(Beta)
-Tablet(Soon)
-Mobile(Soon)
+PC, Tablet, Mobile
 
 ## How To Use
 * **Open guildtags.txt**
