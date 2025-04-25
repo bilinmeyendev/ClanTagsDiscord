@@ -1,19 +1,19 @@
 ![ClanTagsImage](https://github.com/user-attachments/assets/e00b097b-d20c-41a6-94b4-ffab53565288)
 # ClanTagsDiscord
-Discord clan tags that i found.
+Bulduğum discord clan tagları
 
 ## Support Server
-[Discord - Liord Code](https://discord.gg/liordcode)
+https://discord.gg/hxaSMrkmN9
 
 ## Supported Devices
-PC, Tablet, Mobile
+PC, Tablet, Mobil
 
 ## How To Use
-* **Open guildtags.txt**
-* **Copy the link of which tag u want**
-* **Join the server by opening copied link with ur browser**
-* **After joining go to ur discord profile settings**
-* **And then scroll down until u see something that is like a select menu**
-* **Select the tag u want**
-* **And ur ok!**
-* **If u leave the server ur tag gonna get removed.**
+* **guildtags.txt'yi açın**
+* **Takmak istediğiniz tagın davet linkini kopyalayın**
+* **Takmak istediğiniz tagın sunucusuna tarayıcınızda kopyaladığınız linki yapıştırarak üste yada link girme yerine sunucuya girin**
+* **Katıldıktan sonra Discord profil ayarlarınıza gidin**
+* **Ve select menü gibi bir şey görene kadar alta kaydırın**
+* **Seçmek istediğiniz tagı seçin.**
+* **Ve tamamsınız!**
+* **Eğer sunucudan çıkarsanız tag gider.**
