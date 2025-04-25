@@ -1,5 +1,4 @@
-If u came here from youtube, then u should know the tags may can get changed.
+Tags may can be changed.
 
-Owner: yepimsleepyy (discord)
-Support server: discord.gg/liordcode
+Owner: yepimsleepyy (discord),
 Support: DM me
