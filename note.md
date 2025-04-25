@@ -1,4 +1,4 @@
-Tags may can be changed.
+Taglar değiştirilebilir.
 
-Owner: yepimsleepyy (discord),
-Support: DM me
+Sahibi: yepimsleepyy (discord),
+Destek: DM atın
