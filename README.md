@@ -1,14 +1,14 @@
 ![ClanTagsImage](https://github.com/user-attachments/assets/e00b097b-d20c-41a6-94b4-ffab53565288)
 # ClanTagsDiscord
-Bulduğum discord clan tagları
+Bulduğum discord clan tagları.
 
-## Support Server
+## Destek sunucusu
 https://discord.gg/hxaSMrkmN9
 
-## Supported Devices
+## Desteklenen cihazlar
 PC, Tablet, Mobil
 
-## How To Use
+## Nasıl Kullanırım
 * **guildtags.txt'yi açın**
 * **Takmak istediğiniz tagın davet linkini kopyalayın**
 * **Takmak istediğiniz tagın sunucusuna tarayıcınızda kopyaladığınız linki yapıştırarak üste yada link girme yerine sunucuya girin**
